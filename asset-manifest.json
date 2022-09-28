@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TikTokToe/static/css/main.59ea6fe1.css",
+    "main.js": "/TikTokToe/static/js/main.ddf8299f.js",
+    "index.html": "/TikTokToe/index.html",
+    "main.59ea6fe1.css.map": "/TikTokToe/static/css/main.59ea6fe1.css.map",
+    "main.ddf8299f.js.map": "/TikTokToe/static/js/main.ddf8299f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ea6fe1.css",
+    "static/js/main.ddf8299f.js"
+  ]
+}
